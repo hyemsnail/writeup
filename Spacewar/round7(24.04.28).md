@@ -3,13 +3,13 @@
 
 처음에 파일을 받으면 flag.txt, app.py, dockerfile, docker-compose.yml , index.html파일이 있다. index.html은 열면 Web Shell 이라는 이름으로 아래 사진같은 사이트가 뜬다. 
 
-![스크린샷 2024-04-28 135351](https://github.com/hyemsnail/Space_WAR/assets/163375128/496d25d0-0216-4bb1-be3e-b076efa69563)
+![스크린샷 2024-04-28 135351](https://github.com/hyemsnail/writeup/assets/163375128/36eaff9b-86b2-4272-9e0b-95aa2ae34e57)
 
 딱 봐도 Enter a shell command 안에 맞는 답을 집어넣으면 꽤 큰 진전이 있을 것 같다. 
 
 flag.txt파일을 봤는데 모양새가 웬지 답 같이 생겨서 shell command와 flag에 한번 둘다 넣어보았다. 
-![스크린샷 2024-04-28 150104](https://github.com/hyemsnail/Space_WAR/assets/163375128/f560d2ad-6416-4a2e-b5f4-9607d5c1228e)
-![스크린샷 2024-04-28 135311](https://github.com/hyemsnail/Space_WAR/assets/163375128/67b07896-b783-49ff-8dc5-15b41dbaf4ec)
+![스크린샷 2024-04-28 150104](https://github.com/hyemsnail/writeup/assets/163375128/77ac0eb9-78c0-44cf-aae4-3a33a2fd51e6)
+![스크린샷 2024-04-28 135311](https://github.com/hyemsnail/writeup/assets/163375128/f8ef0e39-66e1-4158-85fd-5b45874ea1ce)
 
 역시나.. 될 리가 없다.. 답을 대놓고 줄 리가 없다. 
 
@@ -102,14 +102,16 @@ CMD ["flask", "run", "--host", "0.0.0.0", "--port", "5678"]
 
 검색을 해보니 flask는 파이썬으로 작성된 마이크로 웹 프레임워크라고 한다. 사용하려면 설치를 해야한다고 한다. 
 flask를 어떻게 쓸지는 모르겠지만 설치를 해 보았다. 
-![스크린샷 2024-04-28 142950](https://github.com/hyemsnail/Space_WAR/assets/163375128/f545670f-b358-49fa-9d3b-9730e8fb6fff)
+
 
 그러다 dockerfile에 flask를 설치하는 것 같은 코드가 보여서 다시 한번 해 보았다. 
-![스크린샷 2024-04-28 143502](https://github.com/hyemsnail/Space_WAR/assets/163375128/8da5b66d-16a7-483f-a243-8d2c99e540b0)
+![스크린샷 2024-04-28 142950](https://github.com/hyemsnail/writeup/assets/163375128/d258eb18-c97a-418f-9cd4-04d5898f14c5)
 
 에러가 뜨고 거기서 시키는 대로 다시 한번 해 보았다. 
-![스크린샷 2024-04-28 143509](https://github.com/hyemsnail/Space_WAR/assets/163375128/8d433d35-7a15-4e23-9199-cd1fc7c4939f)
-![스크린샷 2024-04-28 143517](https://github.com/hyemsnail/Space_WAR/assets/163375128/a2544cfe-236b-4769-86fd-0e86fbd77bef)
+
+
+![스크린샷 2024-04-28 143502](https://github.com/hyemsnail/writeup/assets/163375128/808285c7-4610-4785-9ce9-67d509f39dfe)
+![스크린샷 2024-04-28 143509](https://github.com/hyemsnail/writeup/assets/163375128/eb2a03b5-73e9-492f-a0ed-809fc3dcb946)
 
 already satisfied라고 뜨는 것을 보니 아까 dockerfile에 나와있는대로 하기 전 설치했던 것이 제대로 설치가 되긴 된 모양이다. 
 
