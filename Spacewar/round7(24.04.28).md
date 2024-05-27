@@ -1,5 +1,5 @@
 # Space WAR #7 Write up 
-인생 두번째 CTF에 참여해보았다. 이번에도 Web 분야로 참여해보았다. flagreading(?)이라는 이름으로 되있었고 무엇보다 난이도가 easy여서 이 분야로 해보게 되었다. 8일 전에 CTF를 참여해보았지만 아직도 아무것도 아는게 없는 상태이기 때문에 경험을 쌓는 것에 의의를 둘 것이다.
+이번에도 Web 분야로 참여해보았다. flagreading(?)이라는 이름으로 되있었고 무엇보다 난이도가 easy여서 이 분야로 해보게 되었다. 8일 전에 CTF를 참여해보았지만 아직도 아무것도 아는게 없는 상태이기 때문에 경험을 쌓는 것에 의의를 둘 것이다.
 
 처음에 파일을 받으면 flag.txt, app.py, dockerfile, docker-compose.yml , index.html파일이 있다. index.html은 열면 Web Shell 이라는 이름으로 아래 사진같은 사이트가 뜬다. 
 
