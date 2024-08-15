@@ -67,6 +67,22 @@ DIMDIMSUM을 입력했을 때 파일이 열렸다. 가려고 한 음식점은 �
 그러면 포켓몬 도감 공식 사이트가 나온다. 들어가 보니 포켓몬 별로 다 다른 숫자를 가지고 있었다. <br/>
 그래서 이번에는 포켓몬 각각 도감에 있는 번호를 알아내어 그 숫자들을 더했다. 2956이 나온다. 6번 파일에 입력해보았더니 파일이 열렸다. <br/><br/>
 - - - 
+6번 파일<br/>
+![스크린샷 2024-08-15 223932](https://github.com/user-attachments/assets/bc50adea-6ff8-4743-9c8f-8bbc07d3efd0) <br/>
+![스크린샷 2024-08-15 224705](https://github.com/user-attachments/assets/683a373c-9c56-4032-9b13-8ae0a42ccc68) <br/>
+바로 위에 이상한 글자들이 말하는 것을 알아내야 한다. 그냥 통째로 구글에 검색하니 연산자 관련 게시물이 몇개 나오고 그 밑에 'Brainfuck'이라는 게시물이 있었다. 프로그래밍 언어라고 한다. <br/>
+확인해보니 브레인퍽 언어가 맞는 것 같다. 그래서 브레인퍽 인터프리터에 그 글자들을 넣어보았다. <br/>
+![스크린샷 2024-08-15 230243](https://github.com/user-attachments/assets/15fc7e82-f9e2-4a89-80e7-d90451a10248) <br/>
+크라임씬이 너무 재밌다는 말이 있고 그 다음 부터는 약간 아무말 같았다. 그래서 7번 파일 암호에 CRIMESCENE을 넣어보았다. 파일이 열렸다. <br/><br/>
+- - - 
+7번 파일<br/>
+![스크린샷 2024-08-15 230339](https://github.com/user-attachments/assets/7fb5dcf9-6c65-45e7-a080-d8af2e42607d) <br/>
+드디어 끝났다...
+플래그는 지금까지 나온 것을 모두 합치면 <br/>
+```3S{thank_you_for_participating_this_3sctf_wjfeoahtEofuakwcnj}```이다. 
+
+
+
 
 
 
