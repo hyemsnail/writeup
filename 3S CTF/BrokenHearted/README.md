@@ -22,7 +22,7 @@ output 폴더 안에는 png와 zip파일과 audit.txt 파일이 존재했다. pn
 ![스크린샷 2024-08-16 142440](https://github.com/user-attachments/assets/a759a94d-14c4-4aea-83ee-232975c01ccd) <br/>
 두가지 파일이 있었다. 한가지 파일에는 flag.bmp 라는 파일이 있었고 아래와 같이 나왔다. <br/>
 ![스크린샷 2024-08-16 142354](https://github.com/user-attachments/assets/84f7d012-107a-4a1b-8d52-dd4e9a1a8e15) <br/>
-또 다른 파일에는 Hint1.jpg 파일과 Hint2.png 파일이 있었다. <br/>
+또 다른 파일에는 Hint1.jpg 파일과 Hint2.png 파일이 있었다. <br/><br/>
 Hint1.jpg 파일<br/>
 ![스크린샷 2024-08-16 142410](https://github.com/user-attachments/assets/1a765f17-cade-4693-8b7d-2def6d753f29) <br/><br/>
 Hint2.png 파일 <br/>
