@@ -8,7 +8,7 @@ Brob
 버퍼 오버플로우는 분명 중요한 힌트일 것 같아서 자료를 좀 찾아보았고 https://hackingstudypad.tistory.com/105 을 참고해보기로 했다. <br/>
 포너블에서 많이 쓰인다는 gdb 디버거를 설치해 사용해보았다. brob 파일에 대해서 gdb를 사용해보았다. 블로그 따라 main 함수를 디스 어셈블 해보았다. <br/>
 ![스크린샷 2024-08-17 184151](https://github.com/user-attachments/assets/ecb9ad7b-2a74-4272-9f0b-b0beb0f3821f) <br/><br/>
-![스크린샷 2024-08-17 184452](https://github.com/user-attachments/assets/89bf67a5-06a0-4bad-9b86-a7dfb88cce9b)
+![스크린샷 2024-08-17 184452](https://github.com/user-attachments/assets/89bf67a5-06a0-4bad-9b86-a7dfb88cce9b) <br/>
 b get_audition_info로 브레이크 포인트를 멈춰 보았다. 브레이크 포인트를 걸면 프로그램이 실행되다가 멈추고 그 상태에서 그 부분의 상태를 살펴볼 수 있다. <br/>
 그리고 r로 프로그램을 실행해보았다. <br/>
 실행을 하면 저렇게 3줄이 나오고 그 다음부터는 아무런 반응이 없다. 실행이 제대로 되지 않는 것 같다. <br/>
