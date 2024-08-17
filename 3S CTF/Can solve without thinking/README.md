@@ -17,7 +17,7 @@ python 버전을 보니 3 이상이어서 아래와 같은 방식으로 하려�
 ![스크린샷 2024-08-18 055729](https://github.com/user-attachments/assets/08c34814-cc67-4097-9532-d0bfe80900e6) <br/>
 권한이 없다고 한다...<br/>
 아마 Grab source가 제대로 수행이 되고 난 다음 Run some tests를 수행하여 pygame 문제들을 푸는 것 같다. <br/>
-권한 문제가 해결되면 수정해놓겠다...
+권한 문제가 해결되면 수정하겠다...
 
 
 
