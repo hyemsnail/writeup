@@ -7,5 +7,8 @@ apps.rw 폴더를 통째로 vscode에서 열어보았다. 파일이 정말 많�
 3번째 리마인더 작성 시간은 reminderConsumerLog에 있었다. 아마도 start를 기준으로 리마인더가 작성되는 듯 하다. <br/>
 ![스크린샷 2024-08-18 065331](https://github.com/user-attachments/assets/cddb8f66-e096-4d24-8930-ec1ad2df29a7) <br/>
 3번재 리마인더 작성 시간은 22:45:48이다. <br/>
+음악 파일 명은 MpPlayingList.dat에 있었다. 파일명은 Over the Horizon.mp3이다. <br/>
+![스크린샷 2024-08-18 103246](https://github.com/user-attachments/assets/1d8cb415-f216-4ef6-a0e0-6e62e8214b03) <br/>
+
 
 
