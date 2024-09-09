@@ -4,6 +4,8 @@ Wasm rev for beginners <br/>
 **문제**<br/><br/>
 ![스크린샷 2024-09-07 225518](https://github.com/user-attachments/assets/abd6d89d-72bb-4e37-93ee-ce9fcd97777d) <br/>
 
+**풀이** <br/>
+
 문제에서 제공된 파일을 압축을 푼 다음 폴더를 열면 ```index.html``` 파일과 ```pkg```라는 폴더가 있다. <br/>
 index.html 파일을 열어보면 <br/>
 ![스크린샷 2024-09-08 215742](https://github.com/user-attachments/assets/2445312d-9d64-4852-99f1-6f087dca5ee9) <br/>
